@@ -22,3 +22,9 @@ Within the Python app itself, I'm leveraging the following libraries:
 ## Accessing the App:
 - Server IP Address: 3.16.80.200
 - Web-app URL: http://3.16.80.200.xip.io
+
+## Special Thanks!
+A few main resources made this possible:
+- Udacity mentor Otavio H. - Thank you so much for your patience and help!
+- Udacity student Eric G. - Thank you for providing answers, many to other students that I listened in on and benefited from.
+- This particular article from "RealPython" that helped give me a broader understanding: https://realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/
